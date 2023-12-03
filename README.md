@@ -14,6 +14,7 @@ Anaconda - Python 3.7
 ### Step 5: After slicing, print the circulated values.
 
 ## Program:
+```
 #Program to circulate N values.
 #Developed by:M Himavath
 #RegisterNumber:23010121
@@ -21,7 +22,7 @@ def circulate():
     lst=eval(input())
     n=int(input())
     print("After circulating the values are:",lst[n:]+lst[:n])
-
+```
 ## Output:
 file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-11-14%2012-38-16.png![image](https://github.com/Himavath08/Circulate-the-values-of-N-variables/assets/139110631/b31fb09f-aa2c-4d55-8faa-cf31fb231677)
 
