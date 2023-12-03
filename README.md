@@ -24,6 +24,6 @@ def circulate():
     print("After circulating the values are:",lst[n:]+lst[:n])
 ```
 ## Output:
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-11-14%2012-38-16.png![image](https://github.com/Himavath08/Circulate-the-values-of-N-variables/assets/139110631/b31fb09f-aa2c-4d55-8faa-cf31fb231677)
+![image](https://github.com/Himavath08/Circulate-the-values-of-N-variables/assets/139110631/de442584-dd89-4e2c-93bf-012dbe45a63e)
 
 ## Result:
